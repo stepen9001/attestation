@@ -1,0 +1,95 @@
+const
+t=8;
+
+procedure OnTimer(t);
+begin
+
+WriteIniString('C:\BOT.ini','DOTS','1_074', String(Объект('1_074').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_075', String(Объект('1_075').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_072', String(Объект('1_072').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_073', String(Объект('1_073').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_066', String(Объект('1_066').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_067', String(Объект('1_067').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_002', String(Объект('1_002').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_001', String(Объект('1_001').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_177', String(Объект('1_177').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_170', String(Объект('1_170').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_167', String(Объект('1_167').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_055', String(Объект('1_055').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_056', String(Объект('1_056').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_240', String(Объект('1_240').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_241', String(Объект('1_241').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_1903', String(Объект('1_1903').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_1904', String(Объект('1_1904').Значение));
+WriteIniString('C:\BOT.ini','DOTS','1_161', String(Объект('1_161').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_01', String(Объект('k3_01').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_02', String(Объект('k3_02').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_03', String(Объект('k3_03').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_04', String(Объект('k3_04').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_05', String(Объект('k3_05').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_06', String(Объект('k3_06').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_07', String(Объект('k3_07').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_08', String(Объект('k3_08').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_11', String(Объект('k3_11').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_12', String(Объект('k3_12').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_13', String(Объект('k3_13').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_17', String(Объект('k3_17').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_18', String(Объект('k3_18').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_19', String(Объект('k3_19').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_20', String(Объект('k3_20').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_21', String(Объект('k3_21').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_22', String(Объект('k3_22').Значение));
+WriteIniString('C:\BOT.ini','DOTS','k3_28', String(Объект('k3_28').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_01', String(Объект('4_ek_01').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_02', String(Объект('4_ek_02').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_03', String(Объект('4_ek_03').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_04', String(Объект('4_ek_04').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_05', String(Объект('4_ek_05').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_06', String(Объект('4_ek_06').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_07', String(Объект('4_ek_07').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_08', String(Объект('4_ek_08').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_11', String(Объект('4_ek_11').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_12', String(Объект('4_ek_12').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_13', String(Объект('4_ek_13').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_17', String(Объект('4_ek_17').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_18', String(Объект('4_ek_18').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_19', String(Объект('4_ek_19').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_20', String(Объект('4_ek_20').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_21', String(Объект('4_ek_21').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_22', String(Объект('4_ek_22').Значение));
+WriteIniString('C:\BOT.ini','DOTS','4_ek_28', String(Объект('4_ek_28').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_074', String(Объект('5_074').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_075', String(Объект('5_075').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_072', String(Объект('5_072').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_073', String(Объект('5_073').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_066', String(Объект('5_066').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_067', String(Объект('5_067').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_002', String(Объект('5_002').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_001', String(Объект('5_001').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_177', String(Объект('5_177').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_170', String(Объект('5_170').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_167', String(Объект('5_167').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_055', String(Объект('5_055').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_056', String(Объект('5_056').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_240', String(Объект('5_240').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_241', String(Объект('5_241').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_1903', String(Объект('5_1903').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_1904', String(Объект('5_1904').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_161', String(Объект('5_161').Значение));
+WriteIniString('C:\BOT.ini','DOTS','5_337', String(Объект('5_337').Значение));
+WriteIniString('C:\BOT.ini','DOTS','b5t31', String(Объект('b5t31').Значение));
+WriteIniString('C:\BOT.ini','DOTS','b5t2', String(Объект('b5t2').Значение));
+WriteIniString('C:\BOT.ini','DOTS','b5t3', String(Объект('b5t3').Значение));
+WriteIniString('C:\BOT.ini','DOTS','b5t8', String(Объект('b5t8').Значение));
+WriteIniString('C:\BOT.ini','DOTS','b5t7', String(Объект('b5t7').Значение));
+
+
+setTimer(t,5);
+end;
+
+
+procedure OnOpen;
+begin
+setTimer(t,5);
+write("Запуск таймера");
+end;
